@@ -1,1 +1,3 @@
 # react-authentication
+
+npm install
